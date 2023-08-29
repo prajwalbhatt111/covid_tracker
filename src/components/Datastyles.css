@@ -1,0 +1,52 @@
+.section {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    height: 87%;
+}
+
+.first {
+    display: flex;
+    justify-content: space-between;
+}
+
+.cards {
+    border: 2px solid green;
+    width: 24%;
+    padding: 8px 7px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    height: 217px;
+    color: white;
+}
+
+.second {
+    display: flex;
+    justify-content: space-between;
+}
+
+.one {
+    background: #21679C;
+}
+
+.two {
+    background: #15A750;
+}
+
+.three {
+    background: #FFC300;
+}
+
+.fourth {
+    background: #FF5733;
+}
+
+.fifth {
+    background: #8A15A7;
+}
+
+.sixth {
+    background: #900C3F
+}
